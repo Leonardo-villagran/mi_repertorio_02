@@ -20,6 +20,6 @@ npm run dev
 ```
 ## Acceso a deploy en web desde :
 
-[https://mirepertorio-production.up.railway.app/](https://mirepertorio-production.up.railway.app/)
+[https://mirepertorio02-production.up.railway.app/](https://mirepertorio02-production.up.railway.app/)
 
 
