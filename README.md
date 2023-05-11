@@ -11,10 +11,13 @@
 * Se utiliza un arcchivo Json en la carpeta /public/data/repertorio.json  para almacenar los datos de las canciones agregadas.
 
 * Se ejecuta el programa a través del comando:
-
-**npm run start
-**npm run dev
-
+```
+npm run start
+```
+* Para ejecutar el programa en modo de producción (sin debugging) se ejecuta el comando:
+```
+npm run dev
+```
 ## Acceso a deploy en web desde :
 
 [https://mirepertorio-production.up.railway.app/](https://mirepertorio-production.up.railway.app/)
